@@ -37,6 +37,6 @@ public class Problem2A {
 		int []arr1 = new int[]{1,7,3,4};
 		int []arr2 = new int[]{1,2,6,5,9};
 
-		printArray(getProductsOfAllIntsExceptAtIndex(arr2));
+		printArray(getProductsOfAllIntsExceptAtIndex(arr));
 	}
 }
